@@ -3,7 +3,7 @@ rayan/rayanio is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center" style="color: #36BCF7; font-weight: bold; font-size: 36px; text-shadow: 1px 1px 2px #000;">Hey Folks, Welcome To My Profile!</h1>
+<h1 align="center" style="color: #36BCF7; font-weight: bold; font-size: 36px; text-shadow: 1px 1px 2px #000;">Hey Folks, Welcome To My Profile</h1>
 
 <div align="center" style="background: linear-gradient(135deg, #6e8efb, #a777e3); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 
